@@ -11,8 +11,6 @@ export default defineNuxtConfig({
   modules: ['@nuxt/content'],
   site: {
     url: 'https://aristote-nkomba.netlify.app',
-  },
-  sitemap: {
-    autoLastmod: true
+    name: 'Aristote Nkomba'
   }
 })
