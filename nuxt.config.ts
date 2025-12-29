@@ -8,9 +8,12 @@ export default defineNuxtConfig({
   vite: {
     plugins: [ tailwindcss() ]
   },
-  modules: ['@nuxt/content'],
+  modules: ['@nuxt/sitemap'],
   site: {
     url: 'https://aristote-nkomba.netlify.app',
     name: 'Aristote Nkomba'
+  },
+  sitemap: {
+    autoLastMod: true
   }
 })
