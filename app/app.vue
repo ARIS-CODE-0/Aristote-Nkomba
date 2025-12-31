@@ -10,11 +10,14 @@
           <div
             class="absolute -inset-0.5 bg-linear-to-r from-gray-200 to-gray-100 dark:from-gray-700 dark:to-gray-800 rounded-full blur opacity-50 group-hover:opacity-75 transition duration-500">
           </div>
-          <div
+          <!--div
             class="relative h-32 w-32 rounded-full overflow-hidden border border-gray-100 dark:border-gray-800 shadow-sm bg-gray-50 dark:bg-gray-900"
             data-alt="Aristote Nkomba"
             style='background-image: url("/Aristote-Nkomba.JPG"); background-size: cover; background-position: center;'>
-          </div>
+          </div-->
+          <img
+          class="relative h-32 w-32 rounded-full overflow-hidden border border-gray-100 dark:border-gray-800 shadow-sm bg-gray-50 dark:bg-gray-900"
+          src="./assets/imgs/Aristote-Nkomba.jpg" alt="Aristote Nkomba">
         </div>
         <h1
           class="mt-6 text-2xl font-bold tracking-tight text-center text-gray-900 dark:text-white animate-enter delay-100">
