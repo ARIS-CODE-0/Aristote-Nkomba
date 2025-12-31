@@ -17,7 +17,7 @@
           </div-->
           <img
           class="relative h-32 w-32 rounded-full overflow-hidden border border-gray-100 dark:border-gray-800 shadow-sm bg-gray-50 dark:bg-gray-900"
-          :src="arisImg" alt="Aristote Nkomba">
+          src="/imgs/Aristote-Nkomba.jpg" alt="Aristote Nkomba">
         </div>
         <h1
           class="mt-6 text-2xl font-bold tracking-tight text-center text-gray-900 dark:text-white animate-enter delay-100">
@@ -109,7 +109,7 @@
       },
       {
         propriety: 'og:image',
-        content: 'https://aristote-nkomba.netlify.app/Aristote-Nkomba.png'
+        content: 'https://aristote-nkomba.netlify.app/imgs/Aristote-Nkomba.jpg'
       },
       {
         propriety: 'og:type',
@@ -126,5 +126,5 @@
     ]
   })
 
-  import arisImg from "assets/imgs/Aristote-Nkomba.jpg"
+  
 </script>
