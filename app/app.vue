@@ -126,5 +126,5 @@
     ]
   })
 
-  import arisImg from "~/assets/imgs/Aristote-Nkomba.jpg"
+  import arisImg from "assets/imgs/Aristote-Nkomba.jpg"
 </script>
